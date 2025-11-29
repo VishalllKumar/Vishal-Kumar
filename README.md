@@ -1,11 +1,12 @@
+---
 <h1 align="center" style="color:#1a1a1a;">Hi, I’m <span style="color:#0066cc;">Vishal Kumar</span></h1>
 
 
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=600&color=0066cc&center=true&vCenter=true&width=600&lines=Beginner+Web+Developer;Learning+and+Building+Every+Day;Exploring+Python%2C+JavaScript%2C+and+Web+Development" />
-</p>
--->
+
+
+
+
+
 
 ---
 
@@ -30,5 +31,5 @@
 ## Skills and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode,bootstrap,mysql,linux,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,mysql,figma&theme=light" />
 </p>
