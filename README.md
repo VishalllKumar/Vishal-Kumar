@@ -17,7 +17,7 @@
 <p style="color: #2ecc71;"><strong>Name:</strong> Vishal Kumar</p>
 <p style="color: #3498db;"><strong>Role:</strong> Passionate learner in web and software development</p>
 <p style="color: #e67e22;"><strong>Focus:</strong> Strengthening core concepts and creating impactful projects</p>
-<p style="color: #9b59b6;"><strong>Languages:</strong> Python, HTML, CSS</p>
+<p style="color: #9b59b6;"><strong>Languages:</strong> Python, HTML, CSS, C, C++</p>
 <p style="color: #1abc9c;"><strong>Tools:</strong> VS Code, Git, GitHub, Figma, AutoCAD</p>
 <p style="color: #e74c3c;"><strong>Interests:</strong> Web technologies, logical thinking, and coding challenges</p>
 <p style="color: #16a085;"><strong>Goal:</strong> Improve continuously through regular practice and working with others</p>
@@ -31,5 +31,5 @@
 ## Skills and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,mysql,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,mysql,figma,c,c++&theme=light" />
 </p>
